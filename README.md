@@ -3,30 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Editor de Código Simulado</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        .box {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            padding: 20px;
+            max-width: 400px;
+            width: 90%;
+        }
+        .box img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+        .box h1 {
+            margin: 10px 0;
+            font-size: 24px;
+            color: #333;
+        }
+        .box p {
+            color: #666;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+        .box a {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .box a:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
-<body style="font-family: 'Courier New', Courier, monospace; background-color: #282c34; color: #abb2bf; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh;">
-<div style="font-family: 'Courier New', Courier, monospace; background-color: #282c34; color: #abb2bf; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <div style="display: flex; background-color: #1e1e1e; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); overflow: hidden;">
-        <div style="background-color: #252526; color: #858585; padding: 10px; text-align: right; border-right: 1px solid #3c3c3c; user-select: none; opacity: 0.5;">
-            <span style="display: block; line-height: 1.5;">1</span>
-            <span style="display: block; line-height: 1.5;">2</span>
-            <span style="display: block; line-height: 1.5;">3</span>
-            <span style="display: block; line-height: 1.5;">4</span>
-            <span style="display: block; line-height: 1.5;">5</span>
-            <span style="display: block; line-height: 1.5;">6</span>
-            <span style="display: block; line-height: 1.5;">7</span>
-            <span style="display: block; line-height: 1.5;">8</span>
-            <span style="display: block; line-height: 1.5;">9</span>
-            <span style="display: block; line-height: 1.5;">10</span>
-        </div>
-        <div style="padding: 10px; width: 600px;">
-            <p style="margin: 0; line-height: 1.5;">Este es el primer párrafo en el área de programación simulada.</p>
-            <p style="margin: 0; line-height: 1.5;">Aquí puedes agregar más contenido para simular el código.</p>
+<body>
+    <div class="container">
+        <div class="box">
+            <img src="https://via.placeholder.com/150" alt="Foto de perfil">
+            <h1>Descripción</h1>
+            <p>Esta es una breve descripción sobre mí. Aquí puedes incluir información relevante.</p>
+            <a href="https://github.com/tu-usuario/tu-portafolio">Portafolio</a>
         </div>
     </div>
-</div>
-
 </body>
 </html>
 
