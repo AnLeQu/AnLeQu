@@ -20,24 +20,69 @@
     </div>
 </head>
 </html>
+
 <div style="text-align: center; margin: 20px;">
-    <button style="background-color: #306998; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python Logo" style="width: 20px; height: 20px; margin-right: 10px;">
+    <button style="
+        background-color: #306998; 
+        color: white; 
+        border: none; 
+        padding: 12px 24px; 
+        font-size: 16px; 
+        border-radius: 8px; 
+        cursor: pointer; 
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s ease;
+    ">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python Logo" style="width: 24px; height: 24px; margin-right: 12px;">
         Python
     </button>
 </div>
-
 <details style="margin: 20px;">
-    <summary style="background-color: #306998; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python Logo" style="width: 20px; height: 20px; margin-right: 10px;">
+    <summary style="
+        background-color: #306998; 
+        color: white; 
+        border: none; 
+        padding: 12px 24px; 
+        font-size: 16px; 
+        border-radius: 8px; 
+        cursor: pointer; 
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s ease;
+    ">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python Logo" style="width: 24px; height: 24px; margin-right: 12px;">
         Python
     </summary>
     <div style="background-color: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; text-align: center;">
         <img src="https://via.placeholder.com/600x300" alt="Project Image" style="width: 100%; border-radius: 8px; margin-bottom: 20px;">
         <p style="font-size: 16px; color: #666;">Este es un proyecto en Python que realiza [descripción del proyecto]. Puedes ver el código fuente o probar la aplicación utilizando los botones de abajo.</p>
         <div style="margin-top: 20px;">
-            <a href="https://github.com/tu-usuario/tu-proyecto-python" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">Ver Código</a>
-            <a href="https://tu-sitio.com/tu-proyecto-python" style="display: inline-block; padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;">Ver</a>
+            <a href="https://github.com/tu-usuario/tu-proyecto-python" style="
+                display: inline-block; 
+                padding: 10px 20px; 
+                background-color: #007bff; 
+                color: white; 
+                text-decoration: none; 
+                border-radius: 5px; 
+                margin-right: 10px; 
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+                transition: background-color 0.3s ease;
+            ">Ver Código</a>
+            <a href="https://tu-sitio.com/tu-proyecto-python" style="
+                display: inline-block; 
+                padding: 10px 20px; 
+                background-color: #28a745; 
+                color: white; 
+                text-decoration: none; 
+                border-radius: 5px; 
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+                transition: background-color 0.3s ease;
+            ">Ver</a>
         </div>
     </div>
 </details>
