@@ -20,80 +20,13 @@
     </div>
 </head>
 </html>
-<div style="text-align: center; margin: 20px;">
-    <button style="background-color: #306998; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python Logo" style="width: 20px; height: 20px; margin-right: 10px;">
-        Python
-    </button>
-</div>
+<details>
+<summary><b>Python <img src="python_logo.png" height="20"></b></summary>
 
-<details style="margin: 20px;">
-    <summary style="background-color: #306998; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python Logo" style="width: 20px; height: 20px; margin-right: 10px;">
-        Python
-    </summary>
-    <div style="background-color: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; text-align: center;">
-        <img src="https://via.placeholder.com/600x300" alt="Project Image" style="width: 100%; border-radius: 8px; margin-bottom: 20px;">
-        <p style="font-size: 16px; color: #666;">Este es un proyecto en Python que realiza [descripción del proyecto]. Puedes ver el código fuente o probar la aplicación utilizando los botones de abajo.</p>
-        <div style="margin-top: 20px;">
-            <a href="https://github.com/tu-usuario/tu-proyecto-python" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">Ver Código</a>
-            <a href="https://tu-sitio.com/tu-proyecto-python" style="display: inline-block; padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;">Ver</a>
-        </div>
-    </div>
+| Descripción                   | ![Python Logo](python_logo.png) |
+|-------------------------------|--------------------------------|
+| Aquí va la descripción del código Python. Puedes añadir más detalles según sea necesario. | ![Python Image](python_image.png) |
+
+[Ver código](#) | [Probar código](#)
+
 </details>
-
-<!-- Botón Principal -->
-<div style="text-align: center; margin: 20px;">
-    <a href="#python-project" style="
-        display: inline-block; 
-        background-color: #306998; 
-        color: white; 
-        padding: 12px 24px; 
-        border-radius: 8px; 
-        text-decoration: none; 
-        font-size: 16px; 
-        font-family: Arial, sans-serif; 
-        display: flex; 
-        align-items: center; 
-        justify-content: center; 
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    ">
-        <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" style="width: 24px; height: 24px; margin-right: 8px;">
-        Python
-    </a>
-</div>
-
-<!-- Sección Desplegable -->
-<div id="python-project" style="text-align: center; margin: 20px;">
-    <details>
-        <summary style="
-            display: inline-block; 
-            background-color: #306998; 
-            color: white; 
-            padding: 12px 24px; 
-            border-radius: 8px; 
-            text-decoration: none; 
-            font-size: 16px; 
-            font-family: Arial, sans-serif; 
-            display: flex; 
-            align-items: center; 
-            justify-content: center; 
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            cursor: pointer;
-        ">
-            <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" style="width: 24px; height: 24px; margin-right: 8px;">
-            Python
-        </summary>
-        <div style="
-            background-color: #ffffff; 
-            padding: 20px; 
-            border-radius: 8px; 
-            text-align: center; 
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-            margin-top: 10px;
-        ">
-            <img src="https://via.placeholder.com/600x300" alt="Project Image" style="width: 100%; border-radius: 8px; margin-bottom: 20px;">
-            <p style="font-size: 16px; color: #666; margin: 0 0 20px 0;">Este es un proyecto en Python que realiza [descripción del proyecto]. Puedes ver el código fuente o probar la aplicación utilizando los botones de abajo.</p>
-            <a href="https://github.com/tu-usuario/tu-proyecto-python" style="
-                display: inline-block; 
-                padding: 10px 
