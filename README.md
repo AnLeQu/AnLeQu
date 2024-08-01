@@ -6,6 +6,7 @@
     <title>Editor de Código Simulado</title>
 </head>
 <body style="font-family: 'Courier New', Courier, monospace; background-color: #282c34; color: #abb2bf; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="font-family: 'Courier New', Courier, monospace; background-color: #282c34; color: #abb2bf; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh;">
     <div style="display: flex; background-color: #1e1e1e; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); overflow: hidden;">
         <div style="background-color: #252526; color: #858585; padding: 10px; text-align: right; border-right: 1px solid #3c3c3c; user-select: none; opacity: 0.5;">
             <span style="display: block; line-height: 1.5;">1</span>
@@ -24,6 +25,8 @@
             <p style="margin: 0; line-height: 1.5;">Aquí puedes agregar más contenido para simular el código.</p>
         </div>
     </div>
+</div>
+
 </body>
 </html>
 
