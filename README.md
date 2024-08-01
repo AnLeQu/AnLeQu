@@ -14,21 +14,21 @@
         <div style="background-color: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; padding: 20px; max-width: 400px; width: 90%;">
             <img src="https://via.placeholder.com/150" alt="Foto de perfil" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
             <h1 style="margin: 10px 0; font-size: 24px; color: #333;">Descripción</h1>
-            <p style="color: #666; font-size: 16px; margin-bottom: 20px;">Esta es una breve descripción sobre mí. Aquí puedes incluir información relevante.</p>
-            <a href="https://github.com/tu-usuario/tu-portafolio" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Portafolio</a>
+            <p style="color: #666; font-size: 16px; margin-bottom: 20px;">Esta es una breve descripción sobre mí...</p>
+            <a href="https://github.com/AnLeQu/Bitacora-de-Estudio" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Bitacora de Estudio</a>
         </div>
     </div>
 </head>
 </html>
 <details>
-<summary style="cursor: pointer; padding: 10px; background-color: #f0f0f0; border-radius: 5px; border: 1px solid #ccc;"><b>Python <img src="python_logo.png" height="20"></b></summary>
+<summary style="cursor: pointer; padding: 10px; background-color: #f0f0f0; border-radius: 5px; border: 1px solid #ccc;"><b>Python <img src="https://skillicons.dev/icons?i=py" height="20"></b></summary>
 
 <div style="margin-top: 10px; display: flex;">
     <div style="flex: 1; padding: 10px;">
-        <p>Aquí va la descripción del código Python. Puedes añadir más detalles según sea necesario.</p>
+        <p>Descripción del Proyecto </p>
     </div>
     <div style="flex: 1; padding: 10px;">
-        <img src="python_image.png" alt="Python Image" style="max-width: 100%;">
+        <img src="     " alt="Python Image" style="max-width: 100%;">
     </div>
 </div>
 
