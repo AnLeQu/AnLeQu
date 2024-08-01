@@ -22,14 +22,14 @@
 </html>
 <div style="text-align: center; margin: 20px;">
     <button style="background-color: #306998; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-        <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" style="width: 20px; height: 20px; margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python Logo" style="width: 20px; height: 20px; margin-right: 10px;">
         Python
     </button>
 </div>
-<body>
+
 <details style="margin: 20px;">
     <summary style="background-color: #306998; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-        <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" style="width: 20px; height: 20px; margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python Logo" style="width: 20px; height: 20px; margin-right: 10px;">
         Python
     </summary>
     <div style="background-color: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; text-align: center;">
@@ -41,4 +41,3 @@
         </div>
     </div>
 </details>
-</body>
