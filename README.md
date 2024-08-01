@@ -21,12 +21,20 @@
 </head>
 </html>
 <details>
-<summary><b>Python <img src="python_logo.png" height="20"></b></summary>
+<summary style="cursor: pointer; padding: 10px; background-color: #f0f0f0; border-radius: 5px; border: 1px solid #ccc;"><b>Python <img src="python_logo.png" height="20"></b></summary>
 
-| Descripción                   | ![Python Logo](python_logo.png) |
-|-------------------------------|--------------------------------|
-| Aquí va la descripción del código Python. Puedes añadir más detalles según sea necesario. | ![Python Image](python_image.png) |
+<div style="margin-top: 10px; display: flex;">
+    <div style="flex: 1; padding: 10px;">
+        <p>Aquí va la descripción del código Python. Puedes añadir más detalles según sea necesario.</p>
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <img src="python_image.png" alt="Python Image" style="max-width: 100%;">
+    </div>
+</div>
 
-[Ver código](#) | [Probar código](#)
+<div style="margin-top: 10px; text-align: center;">
+    <a href="#" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Ver código</a>
+    <a href="#" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Probar código</a>
+</div>
 
 </details>
