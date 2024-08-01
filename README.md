@@ -3,15 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-      <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Andrés+D.+León+Quesada;Materials+Science+and+Engineering+Student;Aeronautical+Maintenance+Technician+(AMT);Freelance+Artist"></a>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1></summary>
-  </ul>
-</div>
-    </title>
+    <title>GitHub</title>
     <style>
         body {
             font-family: 'Courier New', Courier, monospace;
@@ -75,8 +67,13 @@
             <span>10</span><br>
         </div>
         <div class="content">
-            <p>Este es el primer párrafo en el área de programación simulada.</p>
-            <p>Aquí puedes agregar más contenido para simular el código.</p>
+            <div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Andrés+D.+León+Quesada;Materials+Science+and+Engineering+Student;Aeronautical+Maintenance+Technician+(AMT);Freelance+Artist"></a>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1></summary>
+  </ul>
+</div>
         </div>
     </div>
 </body>
