@@ -12,16 +12,6 @@
         </div>
     </div>
 </head>
-<body>
-    <div class="container">
-        <div class="box">
-            <img src="https://via.placeholder.com/150" alt="Foto de perfil">
-            <h1>Descripción</h1>
-            <p>Esta es una breve descripción sobre mí. Aquí puedes incluir información relevante.</p>
-            <a href="https://github.com/tu-usuario/tu-portafolio">Portafolio</a>
-        </div>
-    </div>
-</body>
 </html>
 
 
