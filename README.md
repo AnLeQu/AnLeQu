@@ -48,33 +48,22 @@
         </div>
 <!-- Sección Proyectos -->
     <div align="center">
-    <h2 id="projects">Projects</h2>
-    <div align="left">
-    <a href=""><img src="/img/Botones/See-code-webp2.webp" width="10%"></a>
-    <a href=""><img src="/img/Botones/Take-a-look-webp.webp" width="10%"></a>
+        <h2 id="projects">Projects</h2>
+        <div align="left">
+        <a href=""><img src="/img/Botones/See-code-webp2.webp" width="10%" align="center" top: 150px></a>
+        <a href=""><img src="/img/Botones/Take-a-look-webp.webp" width="10%" align="center"></a>
+            <div align="center">
+                <img src="/img/Projects/Project-NS-full.svg" width="20%" align="left" />
+        </div>
         <div align="center">
-            <img src="/img/Projects/Project-NS-full.svg" width="20%" align="left" />
+            <img src="/img/Projects/Project-null.svg" width="20%"/>
+            <img src="/img/Projects/Project-null.svg" width="20%"/>
+            <img src="/img/Projects/Project-null.svg" width="20%"/>
+            <img src="/img/Projects/Project-null.svg" width="20%"/>
+            <img src="/img/Projects/Project-null.svg" width="20%"/>
+            <img src="/img/Projects/Project-null.svg" width="20%"/>
         </div>
     </div>
-        <div align="center">
-            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
-        </div>
-        <div align="center">
-            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
-        </div>
-        <div align="center">
-            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
-        </div>
-        <div align="center">
-            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
-        </div>
-        <div align="center">
-            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
-        </div>
-        <div align="center">
-            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
-        </div>
-     </div>
 <!-- Sección Educación -->
     <div align="center">
     <h2 id="education">Education</h2>
