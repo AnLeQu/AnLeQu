@@ -12,20 +12,20 @@
     </div>
       </ul>
     <div align="center">
-        <img src="/img/Compu.svg" width="25%" align="right-10px" />
+        <img src="/img/Compu.svg" width="25%" align="right" />
         </div>
     <div align="center">
         <a href="enlace/añ/repositorio">
-        <img src="/img/Project-boton.svg" height="40" />
+        <img src="/img/Project-boton.svg" height="40" align="center />
         </a>
         </div>
     <div align="center">
         <a href="enlace/al/repositorio">
-        <img src="/img/Education-boton.svg" height="40" />
+        <img src="/img/Education-boton.svg" height="40" align="center />
         </a>
         </div>
     <div align="center">
         <a href="https://github.com/AnLeQu/Bitacora-de-Estudio">
-        <img src="/img/Bitácora-boton.svg" height="40" />
+        <img src="/img/Bitácora-boton.svg" height="40" align="center />
         </a>
         </div>
