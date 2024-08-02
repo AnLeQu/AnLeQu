@@ -16,5 +16,7 @@
         </div>
     <div align="center">
             <img src="/img/Education-boton.svg" height="40" />
+        </div>
+    <div align="center">
         <img src="/img/Bitácora-boton.svg" height="40" />
         </div>
