@@ -47,38 +47,49 @@
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing SVG by DenverCoder1">
         </div>
 <!-- Sección Proyectos -->
+    <div align="center">
     <h2 id="projects">Projects</h2>
-    <div align="center">
-        <img src="/img/Projects/Project-NS-full.svg" width="20%" align="left" />
-    </div>
-    <div align="center">
-        <img src="/img/Projects/Project-null.svg" width="20%""/>
-    </div>
-    <div align="center">
-        <img src="/img/Projects/Project-null.svg" width="20%""/>
-    </div>
-    <div align="center">
-        <img src="/img/Projects/Project-null.svg" width="20%""/>
-    </div>
-    <div align="center">
-        <img src="/img/Projects/Project-null.svg" width="20%""/>
-    </div>
-    <div align="center">
-        <img src="/img/Projects/Project-null.svg" width="20%""/>
-    </div>
+        <div align="center">
+            <img src="/img/Projects/Project-NS-full.svg" width="20%" align="left" />
+        </div>
+        <div align="center">
+            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
+        </div>
+        <div align="center">
+            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
+        </div>
+        <div align="center">
+            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
+        </div>
+        <div align="center">
+            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
+        </div>
+        <div align="center">
+            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
+        </div>
+        <div align="center">
+            <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
+        </div>
+     </div>
 <!-- Sección Educación -->
+    <div align="center">
     <h2 id="education">Education</h2>
+        <div align="center">
+            <img src="/img/Tec.svg" alt="Imagen de Tec" style="width: 100%;">
+        </div>
+        <div align="center">
+            <img src="/img/Espacios/Espacio-medio.svg" alt="ESPACIO ENTRE IMÁGENES" style="width: 100%;">
+        </div>
+        <div align="center">
+            <img src="/img/Fundepos.svg" alt="Imagen de Fundepos" style="width: 100%;">
+        </div>
+    <!-- Subdiv Cursos -->
     <div align="center">
-        <img src="/img/Tec.svg" alt="Imagen de Tec" style="width: 100%;">
-    </div>
-    <div align="center">
-        <img src="/img/Espacios/Espacio-medio.svg" alt="ESPACIO ENTRE IMÁGENES" style="width: 100%;">
-    </div>
-    <div align="center">
-        <img src="/img/Fundepos.svg" alt="Imagen de Fundepos" style="width: 100%;">
-    </div>
+    <h2 id="Courses">Courses</h2>
+        <div align="center">
+            <img src="/img/Espacios/Espacio-medio.svg" alt="ESPACIO ENTRE IMÁGENES" style="width: 100%;">
+        </div>
+     </div>
 </body>
 </html>
-
-## Courses
 ... 
