@@ -46,33 +46,22 @@
         </a>
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing SVG by DenverCoder1">
         </div>
-</body>   
+<!-- Sección Proyectos -->
+    <h2 id="project">Project</h2>
+    <div align="center">
+<!-- Sección Educación -->
+    <h2 id="education">Education</h2>
+    <div align="center">
+        <img src="/img/Tec.svg" alt="Imagen de Tec" style="width: 100%;">
+    </div>
+    <div align="center">
+        <img src="/img/Espacios/Espacio-medio.svg" alt="ESPACIO ENTRE IMÁGENES" style="width: 100%;">
+    </div>
+    <div align="center">
+        <img src="/img/Fundepos.svg" alt="Imagen de Fundepos" style="width: 100%;">
+    </div>
+</body>
 </html>
-        
-# Projects
-<div align="center">
-    <img src="/img/Projects/Numero-Secreto/Visualiza-project-NS.svg" width="20%" align="left" />
-</div>
-<div align="center">
-    <img src="/img/Projects/Numero-Secreto/Code-project-NS.svg" width="20%" />
-</div>
-<div align="center">
-    <img src="/img/Espacios/Project-space.svg" width="20%" />
-</div>
-<div align="center">
-    <img src="/img/Projects/Project-null.svg" width="20%" align="left"/>
-</div>
-
-# Education
-<div align="center">
-    <img src="/img/Tec.svg" width="100%" align="right" />
-</div>
-<div align="center">
-    <img src="/img/Espacios/Espacio-medio.svg" align="right" alt="ESPACIO ENTRE IMAGENES" />
-</div>
-<div align="center">
-    <img src="/img/Fundepos.svg" width="100%" align="right" />
-</div>
 
 ## Courses
 ... 
