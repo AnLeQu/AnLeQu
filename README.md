@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p align="center">
-  <a href="" alt="Andrés León Quesada" /></a>
+  <a href="/img/readme.svg" alt="Andrés León Quesada" /></a>
 </p>
 
 <!--
