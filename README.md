@@ -30,7 +30,7 @@
         <img src="/img/Espacio-pequeño.svg" height="10" align="center" alt="ESPACIO ENTRE BOTONES" />
         </div>
     <div align="center">
-        <a href="#esducation">
+        <a href="#education">
         <img src="/img/Education-boton.svg" height="40" align="center" />
         </a>
         </div>
@@ -48,13 +48,15 @@
         
 # Projects
 
-# Esducation
+# Education
 <div align="center">
-    <img src="/img/Tec.svg" width="25%" align="right" />
+    <img src="/img/Tec.svg" width="100%" align="right" />
 </div>
 <div align="center">
-    <img src="/img/Espacio-medio.svg" height="10" align="center" alt="ESPACIO ENTRE IMAGENES" />
+    <img src="/img/Espacio-medio.svg" align="right" alt="ESPACIO ENTRE IMAGENES" />
 </div>
 <div align="center">
-    <img src="/img/Fundepos.svg" width="25%" align="right" />
+    <img src="/img/Fundepos.svg" width="100%" align="right" />
 </div>
+## Courses
+... 
