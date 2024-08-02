@@ -51,10 +51,10 @@
         
 # Projects
 <div align="center">
-    <img src="/img/Projects/Numero-Secreto/Visualiza-project-NS.svg" width="100%" align="left" />
+    <img src="/img/Projects/Numero-Secreto/Visualiza-project-NS.svg" align="left" />
 </div>
 <div align="center">
-    <img src="/img/Projects/Numero-Secreto/Code-project-NS.svg" width="100%" align="left" />
+    <img src="/img/Projects/Numero-Secreto/Code-project-NS.svg" align="left" />
 </div>
 <div align="center">
     <img src="/img/Espacios/Project-space.svg" width="100%" />
