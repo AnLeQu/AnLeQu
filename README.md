@@ -15,6 +15,10 @@
             <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋;Materials+Science+and+Engineering+Student;Aeronautical+Maintenance+Technician+(AMT);Freelance+Artist"></a><!--horizontal divider(gradiant)--><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing SVG by DenverCoder1">
         </a>
         <div align="center">
+        <img src="/img/Espacio-imgLat.svg" width="25%" align="right" />
+        </div>
+        </a>
+        <div align="center">
         <img src="/img/Compu.svg" width="25%" align="right" />
         </div>
     <div align="center">
@@ -24,7 +28,7 @@
         </div>
     <div align="center">
         <a
-        <img src=" " height="40" align="center" alt="ESPACIO ENTRE BOTONES" />
+        <img src="/img/Espacio-pequeño.svg" height="40" align="center" alt="ESPACIO ENTRE BOTONES" />
         </a>
         </div>
     <div align="center">
@@ -34,7 +38,7 @@
         </div>
     <div align="center">
         <a
-        <img src="/img/Espacio" height="40" align="center" alt="ESPACIO ENTRE BOTONES" />
+        <img src="/img/Espacio-pequeño.svg" height="40" align="center" alt="ESPACIO ENTRE BOTONES" />
         </a>
         </div>
     <div align="center">
