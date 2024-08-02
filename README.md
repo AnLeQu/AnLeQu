@@ -49,9 +49,9 @@
 <!-- Sección Proyectos -->
     <div align="center">
     <h2 id="projects">Projects</h2>
+    <a href=""><img src="/img/Botones/See-code-webp.webp" width="10%" align="bottom"></a>
+    <a href=""><img src="/img/Botones/Take-a-look-webp.webp" width="10%" align="bottom"></a>
         <div align="center">
-        <a href=""><img src="/img/Botones/See-code-webp.webp" width="10%" align="bottom"></a>
-            <a href=""><img src="/img/Botones/Take-a-look-webp.webp" width="10%" align="bottom"></a>
             <img src="/img/Projects/Project-NS-full.svg" width="20%" align="left" />
         </div>
         <div align="center">
