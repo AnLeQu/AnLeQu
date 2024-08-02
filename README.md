@@ -54,13 +54,13 @@
     <img src="/img/Projects/Numero-Secreto/Visualiza-project-NS.svg" width="20%" align="left" />
 </div>
 <div align="center">
-    <img src="/img/Projects/Numero-Secreto/Code-project-NS.svg" width="20%" align="left-bottom" />
+    <img src="/img/Projects/Numero-Secreto/Code-project-NS.svg" width="20%" />
 </div>
 <div align="center">
     <img src="/img/Espacios/Project-space.svg" width="20%" />
 </div>
 <div align="center">
-    <img src="/img/Projects/Project-null.svg" width="20%" />
+    <img src="/img/Projects/Project-null.svg" width="20%" align="left"/>
 </div>
 
 # Education
