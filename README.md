@@ -50,8 +50,8 @@
     <div align="center">
     <h2 id="projects">Projects</h2>
     <div align="left">
-    <a href=""><img src="/img/Botones/See-code-webp2.webp" width="10%" align="bottom"></a>
-    <a href=""><img src="/img/Botones/Take-a-look-webp.webp" width="10%" align="bottom"></a>
+    <a href=""><img src="/img/Botones/See-code-webp2.webp" width="10%" align="down"></a>
+    <a href=""><img src="/img/Botones/Take-a-look-webp.webp" width="10%" align="down"></a>
         <div align="center">
             <img src="/img/Projects/Project-NS-full.svg" width="20%" align="left" />
         </div>
