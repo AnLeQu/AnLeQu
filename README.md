@@ -50,7 +50,7 @@
     <div align="center">
         <h2 id="projects">Projects</h2>
         <div align="left">
-        <a href=""><img src="/img/Projects/Numero-Secreto/Visualiza-project-NS.svg" width="20%" align="left"></a>
+        <a href=""><img src="/img/Projects/Numero-Secreto/Visualiza-project-NS.svg" width="20%" align="center"></a>
             <div align="center">
                 <img src="/img/Projects/Numero-Secreto/Code-project-NS.svg" width="20%" align="left" />
         </div>
