@@ -13,6 +13,8 @@
     <div align="center">
         <img src="/img/Compu.svg" width="25%" align="right" />
         <img src="/img/Project-boton.svg" height="40" />
-        <img src="/img/Education-boton.svg" height="40" />
+        </div>
+    <div align="center">
+            <img src="/img/Education-boton.svg" height="40" />
         <img src="/img/Bitácora-boton.svg" height="40" />
         </div>
