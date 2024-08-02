@@ -47,8 +47,19 @@
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing SVG by DenverCoder1">
         </div>
 <!-- Sección Proyectos -->
-    <h2 id="project">Project</h2>
+    <h2 id="projects">Projects</h2>
     <div align="center">
+        <img src="/img/Projects/Project-NS-full.svg" width="20%" align="left" />
+    </div>
+    <div align="center">
+        <img src="/img/Projects/Numero-Secreto/Code-project-NS.svg" width="20%" />
+    </div>
+    <div align="center">
+        <img src="/img/Espacios/Project-space.svg" width="20%" />
+    </div>
+    <div align="center">
+        <img src="/img/Projects/Project-null.svg" width="20%" align="left"/>
+    </div>
 <!-- Sección Educación -->
     <h2 id="education">Education</h2>
     <div align="center">
