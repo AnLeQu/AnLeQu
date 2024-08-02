@@ -49,7 +49,7 @@
 <!-- Sección Proyectos -->
     <div align="center">
     <h2 id="projects">Projects</h2>
-    <div align="center">
+    <div align="left">
     <a href=""><img src="/img/Botones/See-code-webp2.webp" width="10%" align="bottom"></a>
     <a href=""><img src="/img/Botones/Take-a-look-webp.webp" width="10%" align="bottom"></a>
         <div align="center">
