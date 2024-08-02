@@ -27,9 +27,7 @@
         </a>
         </div>
     <div align="center">
-        <a
         <img src="/img/Espacio-pequeño.svg" height="40" align="center" alt="ESPACIO ENTRE BOTONES" />
-        </a>
         </div>
     <div align="center">
         <a href="enlace/aL/repositorio">
@@ -37,9 +35,7 @@
         </a>
         </div>
     <div align="center">
-        <a
         <img src="/img/Espacio-pequeño.svg" height="40" align="center" alt="ESPACIO ENTRE BOTONES" />
-        </a>
         </div>
     <div align="center">
         <a href="https://github.com/AnLeQu/Bitacora-de-Estudio">
