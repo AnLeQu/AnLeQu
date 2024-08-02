@@ -51,6 +51,8 @@
     <h2 id="projects">Projects</h2>
         <div align="center">
             <img src="/img/Projects/Project-NS-full.svg" width="20%" align="left" />
+            <a href=""><img src="/img/Botones/See-code-webp.webp"></a>
+            <a href=""><img src="/img/Botones/Take-a-look-webp.webp"></a>
         </div>
         <div align="center">
             <img src="/img/Projects/Project-null.svg" width="20%" align="left/>
