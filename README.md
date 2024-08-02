@@ -15,34 +15,34 @@
 <!--horizontal divider(gradiant)--><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing SVG by DenverCoder1">
     </div>
     <div align="center">
-        <img src="/img/Espacio-imgLat.svg" width="12%" align="right" />
+        <img src="/img/Espacios/Espacio-imgLat.svg" width="12%" align="right" />
         </div>
         </a>
         <div align="center">
         <img src="/img/Compu.svg" width="40%" align="right" />
     </div>
     <div align="center">
-        <img src="/img/Espacio-central-botXimg.svg" height="85" align="center" alt="ESPACIO ENTRE BOTONES" />
+        <img src="/img/Espacios/Espacio-central-botXimg.svg" height="85" align="center" alt="ESPACIO ENTRE BOTONES" />
         </div>
     <div align="center">
         <a href="#projects">
-        <img src="/img/Project-boton.svg" height="50" align="center" />
+        <img src="/img/Botones/Project-boton2.svg" height="50" align="center" />
         </a>
         </div>
     <div align="center">
-        <img src="/img/Espacio-pequeño.svg" height="10" align="center" alt="ESPACIO ENTRE BOTONES" />
+        <img src="/img/Espacios/Espacio-pequeño.svg" height="10" align="center" alt="ESPACIO ENTRE BOTONES" />
         </div>
     <div align="center">
         <a href="#education">
-        <img src="/img/Education-boton.svg" height="50" align="center" />
+        <img src="/img/Botones/Education-boton-2.svg" height="50" align="center" />
         </a>
         </div>
     <div align="center">
-        <img src="/img/Espacio-pequeño.svg" height="10" align="center" alt="ESPACIO ENTRE BOTONES" />
+        <img src="/img/Espacios/Espacio-pequeño.svg" height="10" align="center" alt="ESPACIO ENTRE BOTONES" />
         </div>
     <div align="center">
         <a href="https://github.com/AnLeQu/Bitacora-de-Estudio">
-        <img src="/img/Bitácora-boton.svg" height="50" align="center" />
+        <img src="/img/Botones/Bitácora-boton.svg" height="50" align="center" />
         </a>
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing SVG by DenverCoder1">
         </div>
@@ -51,7 +51,16 @@
         
 # Projects
 <div align="center">
-    <img src="/img/prototipo 1 projects.svg" width="100%" />
+    <img src="/img/Projects/Numero-Secreto/Visualiza-project-NS.svg" width="100%" align="left" />
+</div>
+<div align="center">
+    <img src="/img/Projects/Numero-Secreto/Code-project-NS.svg" width="100%" align="left" />
+</div>
+<div align="center">
+    <img src="/img/Espacios/Project-space.svg" width="100%" />
+</div>
+<div align="center">
+    <img src="/img/Projects/Project-null.svg" width="100%" align="left" />
 </div>
 
 # Education
@@ -59,7 +68,7 @@
     <img src="/img/Tec.svg" width="100%" align="right" />
 </div>
 <div align="center">
-    <img src="/img/Espacio-medio.svg" align="right" alt="ESPACIO ENTRE IMAGENES" />
+    <img src="/img/Espacios/Espacio-medio.svg" align="right" alt="ESPACIO ENTRE IMAGENES" />
 </div>
 <div align="center">
     <img src="/img/Fundepos.svg" width="100%" align="right" />
