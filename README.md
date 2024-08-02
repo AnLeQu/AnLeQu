@@ -19,11 +19,14 @@
         </div>
         </a>
         <div align="center">
-        <img src="/img/Compu.svg" width="25%" align="right" />
+        <img src="/img/Compu.svg" width="40%" align="right" />
+        </div>
+    <div align="center">
+        <img src="/img/Espacio-central-botXimg.svg" height="85" align="center" alt="ESPACIO ENTRE BOTONES" />
         </div>
     <div align="center">
         <a href="#projects">
-        <img src="/img/Project-boton.svg" height="40" align="center" />
+        <img src="/img/Project-boton.svg" height="50" align="center" />
         </a>
         </div>
     <div align="center">
@@ -31,7 +34,7 @@
         </div>
     <div align="center">
         <a href="#education">
-        <img src="/img/Education-boton.svg" height="40" align="center" />
+        <img src="/img/Education-boton.svg" height="50" align="center" />
         </a>
         </div>
     <div align="center">
@@ -39,7 +42,7 @@
         </div>
     <div align="center">
         <a href="https://github.com/AnLeQu/Bitacora-de-Estudio">
-        <img src="/img/Bitácora-boton.svg" height="40" align="center" />
+        <img src="/img/Bitácora-boton.svg" height="50" align="center" />
         </a>
         </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing SVG by DenverCoder1">
@@ -58,5 +61,6 @@
 <div align="center">
     <img src="/img/Fundepos.svg" width="100%" align="right" />
 </div>
+
 ## Courses
 ... 
