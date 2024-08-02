@@ -18,23 +18,23 @@
         <img src="/img/Compu.svg" width="25%" align="right" />
         </div>
     <div align="center">
-        <a href="enlace/aL/repositorio">
-        <img src="/img/Education-boton.svg" height="40" align="center" />
-        </a>
-        </div>
-    <div align="center">
-        <a
-        <img src=" " height="40" align="center" alt="ESPACIO ENTRE BOTONES" />
-        </a>
-        </div>
-    <div align="center">
-        <a href="enlace/añ/repositorio">
+        <a href="enlace/al/repositorio">
         <img src="/img/Project-boton.svg" height="40" align="center" />
         </a>
         </div>
     <div align="center">
         <a
         <img src=" " height="40" align="center" alt="ESPACIO ENTRE BOTONES" />
+        </a>
+        </div>
+    <div align="center">
+        <a href="enlace/aL/repositorio">
+        <img src="/img/Education-boton.svg" height="40" align="center" />
+        </a>
+        </div>
+    <div align="center">
+        <a
+        <img src="/img/Espacio" height="40" align="center" alt="ESPACIO ENTRE BOTONES" />
         </a>
         </div>
     <div align="center">
