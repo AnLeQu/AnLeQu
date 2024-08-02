@@ -50,6 +50,9 @@
 </html>
         
 # Projects
+<div align="center">
+    <img src="/img/prototipo 1 projects.svg" width="100%" />
+</div>
 
 # Education
 <div align="center">
