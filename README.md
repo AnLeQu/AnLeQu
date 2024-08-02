@@ -22,7 +22,7 @@
         <img src="/img/Compu.svg" width="25%" align="right" />
         </div>
     <div align="center">
-        <a href="enlace/al/repositorio">
+        <a href="#projects">
         <img src="/img/Project-boton.svg" height="40" align="center" />
         </a>
         </div>
@@ -30,7 +30,7 @@
         <img src="/img/Espacio-pequeño.svg" height="10" align="center" alt="ESPACIO ENTRE BOTONES" />
         </div>
     <div align="center">
-        <a href="enlace/aL/repositorio">
+        <a href="#esducation">
         <img src="/img/Education-boton.svg" height="40" align="center" />
         </a>
         </div>
@@ -47,5 +47,14 @@
 </html>
         
 # Projects
-# Esducation
 
+# Esducation
+<div align="center">
+    <img src="/img/Tec.svg" width="25%" align="right" />
+</div>
+<div align="center">
+    <img src="/img/Espacio-medio.svg" height="10" align="center" alt="ESPACIO ENTRE IMAGENES" />
+</div>
+<div align="center">
+    <img src="/img/Fundepos.svg" width="25%" align="right" />
+</div>
