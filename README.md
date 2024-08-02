@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <summary><img src="https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=1000&color=F7F7F7&center=verdadero&vCenter=verdadero&repeat=FALSO&random=FALSO&width=435&lines=Andr%C3%A9s+Le%C3%B3n+Quesada">
+    <summary><img src="https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=1000&color=F7F7F7&center=verdadero&vCenter=verdadero&repeat=FALSO&random=FALSO&width=435&lines=Andr%C3%A9s+Le%C3%B3n+Quesada"align="right" />
     <ul align="center">
     <summary><h1 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Andrés+D.+León+Quesada;Materials+Science+and+Engineering+Student;Aeronautical+Maintenance+Technician+(AMT);Freelance+Artist"></a>
 <!--horizontal divider(gradiant)-->
