@@ -54,6 +54,18 @@
     <div align="center">
         <img src="/img/Projects/Project-null.svg" width="20%""/>
     </div>
+    <div align="center">
+        <img src="/img/Projects/Project-null.svg" width="20%""/>
+    </div>
+    <div align="center">
+        <img src="/img/Projects/Project-null.svg" width="20%""/>
+    </div>
+    <div align="center">
+        <img src="/img/Projects/Project-null.svg" width="20%""/>
+    </div>
+    <div align="center">
+        <img src="/img/Projects/Project-null.svg" width="20%""/>
+    </div>
 <!-- Sección Educación -->
     <h2 id="education">Education</h2>
     <div align="center">
