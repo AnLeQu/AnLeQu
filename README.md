@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <div align="center">
-<img src="/img/Compu.svg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=1000&color=F7F7F7&center=verdadero&vCenter=verdadero&repeat=FALSO&random=FALSO&width=435&lines=Andr%C3%A9s+Le%C3%B3n+Quesada" />
-<img src="/img/Bitácora-boton.svg" height="40" />
+        <img src="/img/Compu.svg" width="25%" align="right" />
+        <img src="https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=1000&color=F7F7F7&center=verdadero&vCenter=verdadero&repeat=FALSO&random=FALSO&width=435&lines=Andr%C3%A9s+Le%C3%B3n+Quesada" align="center"/>
+        <img src="/img/Bitácora-boton.svg" height="40" />
+
 <br><br><br>
 
     <div id="user-content-toc">
