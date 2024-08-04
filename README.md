@@ -7,7 +7,7 @@
 <body style="margin: 0; padding: 0;">
     <div align="center" style="margin-bottom: -20px>
         <a
-            <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+GitHub ;PORTFOLIO" alt="Andrés León Quesada" />
+            <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile ;PORTFOLIO" alt="Andrés León Quesada" />
         </a>
     </div>
     <!--<div align="center" style="margin-bottom: -20px>
@@ -85,3 +85,16 @@
 </body>
 </html>
 ... 
+        
+### Learning 
+
+### Statistics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnLeQu&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnLeQu&show_icons=true&bg_color=00000000)
+
+<h4 align="center">Visitor's count 👀</h4>
+<img src="https://profile-counter.glitch.me/AnLeQu/count.svg">
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
