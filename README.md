@@ -127,6 +127,7 @@
 
 # Contact and Social media
 <a href="https://www.linkedin.com/in/anlequ/"><img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://replit.com/@AnLeQu"><img src="https://skillicons.dev/icons?i=replit" />
 <a href="https://www.instagram.com/in/anlequ/"><img src="https://skillicons.dev/icons?i=instagram" />
 <a href="https://discord.gg/PDEy2m3ddz"><img src="https://skillicons.dev/icons?i=discord" />
  - [Telegram](https://t.me/+4VIXMUHrX942YjUx)
