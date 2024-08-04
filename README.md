@@ -65,7 +65,7 @@
     </div>
 <!-- Sección Educación -->
     <div align="center">
-    <h2 id="education">Education</h2>
+    <h2 id="education">Education</h2><img src="/img/Education.png" width="3%"/>
         <div align="center">
             <img src="/img/Tec.svg" alt="Imagen de Tec" style="width: 100%;">
         </div>
