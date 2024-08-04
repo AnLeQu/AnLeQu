@@ -88,7 +88,7 @@
         
 ### Learning 
 
-### [Statistics]()
+# Statistics <img src="/img/analytics_994170.png" width="3%"/>
 <details>
 <summary>View my activity on GitHub</summary>
     
