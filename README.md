@@ -88,8 +88,10 @@
         
 ### Learning 
 
-### Statistics
-
+### [Statistics]()
+<details>
+<summary>View my activity on GitHub</summary>
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnLeQu&layout=compact&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnLeQu&show_icons=true&bg_color=00000000)
 
@@ -98,3 +100,4 @@
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
+</details>
