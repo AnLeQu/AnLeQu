@@ -65,7 +65,7 @@
     </div>
 <!-- Sección Educación -->
     <div align="center">
-    <h2 id="education">Education</h2><img src="/img/Education.png" width="3%"/>
+    <h2 id="education">Education <img src="/img/Education.png" width="3%"/></h2>
         <div align="center">
             <img src="/img/Tec.svg" alt="Imagen de Tec" style="width: 100%;">
         </div>
@@ -86,7 +86,27 @@
 </html>
 ... 
         
-### Learning 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+      <h2 id="skills">Skills</h2>
+    <!--### Skills <img src="https://skillicons.dev/icons?i=ai" />
+      Excel
+      GoogleSheets
+      AutoCAD
+      Visual Studio
+      Soft Skills
+      Affinity Designer
+      Affinity Photo
+      Word
+      -->
+    <div align="center">
+    <h3 id="learning">Learning</h3>
+        <img src="https://skillicons.dev/icons?i=git,js,html,css,py" />
+    <!--Y los que megustaria aprender en un futuro<img src="https://skillicons.dev/icons?i=matlab,c,cpp,blender,"/>-->
+    </div>
+  </a>
+</p>
 
 # Statistics <img src="/img/analytics_994170.png" width="3%"/>
 <details>
@@ -101,3 +121,18 @@
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
 </details>
+
+<!--
+# About me
+
+# Contact and Social media
+<a href="https://www.linkedin.com/in/anlequ/"><img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.instagram.com/in/anlequ/"><img src="https://skillicons.dev/icons?i=instagram" />
+<a href="https://discord.gg/PDEy2m3ddz"><img src="https://skillicons.dev/icons?i=discord" />
+ - [Telegram](https://t.me/+4VIXMUHrX942YjUx)
+ - Correo: AnLeQu@outlook.com
+Pueden enviarme cualquier consulta, sugerencia o colaboración y unirse a mis grupos de mediante el siguiente los siguientes enlaces:
+
+ > [!IMPORTANT]\
+  > Cómo mencioné anteriormente estos datos son para que tengan una manera más directa de contactarme, por favor con lo que se refiere a mi información de contacto no la utilicen para enviarme spam, o contenido no deseado ya que tendré que bloquearlos y de ser el caso los repotarlos.
+-->
